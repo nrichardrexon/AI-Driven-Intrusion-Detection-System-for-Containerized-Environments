@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+torch
+fastapi
+uvicorn
+prometheus-client
+python-json-logger
+pytest
